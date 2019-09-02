@@ -5,3 +5,7 @@ hello
 hello  -- hello, this write something from 'test'.
 hello  -- 这个推送到GitHub看看冲突。  
 hello  
+我在这里新添加了一段代码
+我在这里新添加了一段代码
+我在这里新添加了一段代码
+我在这里新添加了一段代码
