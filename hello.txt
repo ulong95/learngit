@@ -3,5 +3,5 @@ hello
 hello
 hello
 hello  -- hello, this write something from 'test'.
-hello  -- this is a new insert from 'master' 
-
+hello  -- 这个推送到GitHub看看冲突。  
+hello  
